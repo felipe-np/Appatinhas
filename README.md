@@ -1,3 +1,10 @@
+# Projeto extensão Appatinahs Wyden
+
+Esse projeto foi criado para trabalho de extensão na wyden unifanor.
+
+Se trata de um app de adoção de animais android react native, com chat interno para comunicação entre usuários.
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
