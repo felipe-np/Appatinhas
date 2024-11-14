@@ -1,8 +1,23 @@
-# Projeto extensão Appatinahs Wyden
+# Projeto Extensão Appatinhas Wyden
 
-Esse projeto foi criado para trabalho de extensão na wyden unifanor.
+Este projeto foi criado como parte de um trabalho de extensão na Wyden Unifanor. Trata-se de um aplicativo de adoção de animais desenvolvido em React Native para Android, com um chat interno para comunicação entre os usuários.
 
-Se trata de um app de adoção de animais android react native, com chat interno para comunicação entre usuários.
+## Funcionalidades
+
+- **Cadastro de Animais**: Permite que os usuários cadastrem animais disponíveis para adoção.
+- **Lista de Animais**: Exibe uma lista de animais disponíveis para adoção, filtrados por categoria.
+- **Detalhes do Animal**: Exibe informações detalhadas sobre o animal, incluindo idade, raça, sexo, peso, descrição e informações do dono.
+- **Favoritos**: Permite que os usuários marquem animais como favoritos.
+- **Chat Interno**: Permite a comunicação entre os usuários interessados na adoção de um animal.
+- **Perfil do Usuário**: Exibe informações do perfil do usuário, incluindo opções de menu para adicionar um novo pet, ver postagens, favoritos e a caixa de entrada.
+
+## Tecnologias Utilizadas
+
+- **React Native**: Framework para desenvolvimento de aplicativos móveis.
+- **Expo**: Plataforma para desenvolvimento rápido de aplicativos React Native.
+- **Firebase**: Utilizado para autenticação, banco de dados em tempo real e armazenamento.
+- **Clerk**: Utilizado para gerenciamento de autenticação de usuários.
+- **React Navigation**: Utilizado para navegação entre telas.
 
 
 # Welcome to your Expo app 👋

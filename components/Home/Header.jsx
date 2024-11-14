@@ -22,7 +22,7 @@ export default function Header() {
             <Text style={{
                 fontFamily: 'quicksand',
                 fontSize: 14,
-            }}>Bem Vindo!</Text>
+            }}>Olá, adotar é amor!</Text>
             <Text style={{
                 fontFamily: 'quicksand-medium',
                 fontSize:18
